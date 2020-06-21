@@ -24,7 +24,5 @@ In this capstone project, I will explore the soccer player's best position and o
 ![SGB](https://github.com/HongbinLin1995/FIFA20_capstone_project/blob/master/images/XGB.png)
 ![FNN](https://github.com/HongbinLin1995/FIFA20_capstone_project/blob/master/images/FNN.png)
 
-
-
-
-![haha](https://github.com/HongbinLin1995/FIFA20_capstone_project/blob/master/images/FNN.png)
+## Data modelling(Over rating)
+![r2_score](https://github.com/HongbinLin1995/FIFA20_capstone_project/blob/master/images/r2_score_overall.png)
