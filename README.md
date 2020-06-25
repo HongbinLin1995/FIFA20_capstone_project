@@ -5,7 +5,7 @@ Date: 2020-06-24
 # models
 https://drive.google.com/drive/folders/1YnoY-NgR8aN6modmLHxIskK6zkyuiwHL?usp=sharing
 
-This folder only contains a README.txt file and the audience should download all the .pkl file from the google drive link shown above and put them into the models file. In this capstone project, I have used 11 models to predict the player's best position and overall rating score. If audience run the jupyter notebook directly, the run time will be pretty long. So, I pre-trained those models so that the audience can use them right away with trainning the models again.
+This folder only contains a README.txt file and the audience should download all the .pkl file from the google drive link shown above and put them into the models file. In this capstone project, I have used 11 models to predict the player's best position and overall rating score. If audience run the jupyter notebook directly, the run time will be pretty long. So, I pre-trained those models so that the audience can use them right away without retrainning the models again.
 
 # data
 Data folder contains the 'players_20.csv' file for analysis and modelling.
